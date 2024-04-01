@@ -11,3 +11,9 @@
     - frontend
         - port=8090에서 실행된다.
         - npm start
+
+# 02. 2024-04-01
+    - 회사 컴에 설치 완료
+    - pom.xml 사용한다.
+    - pom.xml에 lib 추가
+    - mariadb 수정

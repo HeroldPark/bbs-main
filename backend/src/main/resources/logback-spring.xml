@@ -62,7 +62,7 @@
         <appender-ref ref="file" />
     </logger>
     <logger name="me.hellonayeon.backend.bbs" level="debug" appender-ref="console" />
-    <logger name="jdbc.connection" level="debug" appender-ref="console-infolog" />
+    <logger name="jdbc.connection" level="error" appender-ref="console-infolog" />
     <logger name="jdbc.sqltiming" level="error" appender-ref="console-infolog" />
     <logger name="jdbc.sqlonly" level="debug" appender-ref="console-infolog" />
     <logger name="jdbc.audit" level="error" appender-ref="console-infolog" />
